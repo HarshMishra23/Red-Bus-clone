@@ -1,4 +1,4 @@
-# Hi, I'm [Harsh Mishra](https://harsh-mishra-portfolio.netlify.app/) ! 👋
+# Hi, I'm Harsh Mishra ! 👋
 
 
 ## 🚀 I'm a full-stack developer...
@@ -25,14 +25,14 @@ HTML, CSS
 https://cerulean-pony-2029f1.netlify.app/
 
 ## Screenshots
-![alt](./image.png)
-![alt](./image%20copy.png)
-![alt](./image%20copy%202.png)
-![alt](./image%20copy%203.png)
-![alt](./image%20copy%204.png)
-![alt](./image%20copy%205.png)
-![alt](./image%20copy%206.png)
-![alt](./image%20copy%207.png)
+![alt](./Image/image.png)
+![alt](./Image/image%20copy.png)
+![alt](./Image/image%20copy%202.png)
+![alt](./Image/image%20copy%203.png)
+![alt](./Image/image%20copy%204.png)
+![alt](./Image/image%20copy%205.png)
+![alt](./Image/image%20copy%206.png)
+![alt](./Image/image%20copy%207.png)
 
 
 ## Feedback
