@@ -51,6 +51,11 @@ https://cerulean-pony-2029f1.netlify.app/
 ![alt](./Image/image%20copy%207.png)
 
 
+
+## 🤝 Contributing
+
+  Contributions are welcome! If you would like to contribute to this project, feel free to submit a pull request or open an issue. Whether it’s bug fixes, new features, or improvements, your help will keep this clone running smoothly.
+
 ## Feedback
 
 If you have any feedback, please reach out to me at hm45676777776@gmail.com
