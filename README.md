@@ -33,6 +33,10 @@
 ## 🛠 Skills
 HTML, CSS
 
+## 📱 Responsive Design
+
+This project is built with mobile-first design principles. The application is fully responsive and ensures a smooth user experience across all screen sizes, from mobile phones to large desktops.
+
 ## Demo | Netlify
 https://cerulean-pony-2029f1.netlify.app/
 
