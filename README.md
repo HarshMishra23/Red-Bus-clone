@@ -10,12 +10,12 @@
 
 ## 🌟 Features
 
-+ ### Bus Search: Users can search for buses based on source, destination, and date.
-+ ### Seat Selection: View bus layout and choose your preferred seats.
-+ ### User Authentication: Sign up, log in, and manage bookings with secure user authentication.
-+ ### Payment Gateway: Simulate a payment process for booking confirmation.
-+ ### Booking History: View previous bookings and their statuses.
-+ ### Mobile-Responsive: The application is fully responsive and works seamlessly on all devices.
++ **Bus Search**: Users can search for buses based on source, destination, and date.
++ **Seat Selection**: View bus layout and choose your preferred seats.
++ **User Authentication**: Sign up, log in, and manage bookings with secure user authentication.
++ **Payment Gateway**: Simulate a payment process for booking confirmation.
++ **Booking History**: View previous bookings and their statuses.
++ **Mobile-Responsive**: The application is fully responsive and works seamlessly on all devices.
 
 
 
