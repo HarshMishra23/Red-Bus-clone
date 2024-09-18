@@ -56,7 +56,13 @@ https://cerulean-pony-2029f1.netlify.app/
 
   Contributions are welcome! If you would like to contribute to this project, feel free to submit a pull request or open an issue. Whether it’s bug fixes, new features, or improvements, your help will keep this clone running smoothly.
 
-## Feedback
+## 📫 Contact
 
-If you have any feedback, please reach out to me at hm45676777776@gmail.com
+For any questions, suggestions, or feedback, feel free to reach out:
+
+Email: hm45676777776@gmail.com
+GitHub: HarshMishra23
+
+
+
 
