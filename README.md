@@ -6,7 +6,7 @@
 
 ## Project Title - Rocket Site
 
-#### Welcome to the RedBus Clone project! This web application is a simplified replica of the popular RedBus online bus ticket booking platform. It allows users to search for buses, book tickets, view available seats, and manage bookings.
+ Welcome to the RedBus Clone project! This web application is a simplified replica of the popular RedBus online bus ticket booking platform. It allows users to search for buses, book tickets, view available seats, and manage bookings.
 
 ## 🌟 Features
 
