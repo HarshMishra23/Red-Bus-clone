@@ -4,7 +4,7 @@
 ## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Project Title - Rocket Site
+## Project Title - Red-Bus-clone
 
  Welcome to the RedBus Clone project! This web application is a simplified replica of the popular RedBus online bus ticket booking platform. It allows users to search for buses, book tickets, view available seats, and manage bookings.
 
@@ -20,7 +20,7 @@
 
 
 ## Average time to complete
-#### 2 days.
+2 days.
 
 
 ## Technology Used
@@ -62,7 +62,7 @@ For any questions, suggestions, or feedback, feel free to reach out:
 
 Email: hm45676777776@gmail.com
 
-GitHub: HarshMishra23
+GitHub: HarshMishra23 
 
 
 
